@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BioAuthentication</string>
+    <string name="gaitcollect">Gait Collection</string>
+    <string name="textcollect">Typing Collection</string>
+    <string name="sigcollect">Signal Collection</string>
+    <string name="menu_settings">Settings</string>
+    <string name="selecttype">Select Collection</string>
+    <string name="xdisp">X Coordinate: </string>
+    <string name="ydisp">Y Coordinate: </string>
+    <string name="zdisp">Z Coordinate: </string>
+    <string name="button1">Enroll Data</string>
+    <string name="button2">Authenticate</string>
+    <string name="button3">Exit</string>
+    <string name="buttonNew">New Subject</string>
+    <string name="buttonExists">Existing Subject</string>
+    <string name="subjdisp">Subject Number: </string>
+    <string name="rememberNum">REMEMBER YOUR SUBJECT NUMBER</string>
+    <string name="buttonLogin">LOGIN</string>
+    <string name="buttonCollection">Begin Collection</string>
+    <string name="buttonSend">Send Data</string>
+    
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    <RadioGroup android:id="@+id/collectoptions" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RadioButton android:id="@+id/gaitcollect" android:text="@string/gaitcollect" />
+        <RadioButton android:id="@+id/textcollect" android:text="@string/textcollect" />
+        <RadioButton android:id="@+id/sigcollect" android:text="@string/sigcollect" />
+    </RadioGroup>
+    
+
+</LinearLayout>
